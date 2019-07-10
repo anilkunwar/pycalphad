@@ -1,6 +1,7 @@
 $Yet to be completed 2019-07-10 Wednesday
 $-------------------------------------------------------------------------------------------------------------
 $ Database file written 2015-03-10 Modified for pycalphad from Database compiled by Ursula R. Kattner(1999)
+$ Reference: https://www.metallurgy.nist.gov/phase/solder/solder.tdb
 $ From database: USER                 
  ELEMENT /-   ELECTRON_GAS           0.0000E+00  0.0000E+00  0.0000E+00 !
  ELEMENT VA   VACUUM                 0.0000E+00  0.0000E+00  0.0000E+00 !
