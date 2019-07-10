@@ -1,0 +1,14 @@
+
+$-------------------------------------------------------------------------------------------------------------
+$ Database file written 2015-03-10 Modified for pycalphad from Database compiled by Ursula R. Kattner(1999)
+$ From database: USER                 
+ ELEMENT /-   ELECTRON_GAS           0.0000E+00  0.0000E+00  0.0000E+00 !
+ ELEMENT VA   VACUUM                 0.0000E+00  0.0000E+00  0.0000E+00 !
+ ELEMENT AG   FCC_A1                 1.0787E+02  5.7446E+03  4.2551E+01 !
+ ELEMENT BI   RHOMBOHEDRAL_A7        2.0898E+02  6.4266E+03  5.6735E+01 !
+ ELEMENT CU   FCC_A1                 6.3546E+01  5.0041E+03  3.3150E+01 !
+ ELEMENT PB   FCC_A1                 2.0720E+02  6.8785E+03  6.4785E+01 !
+ ELEMENT SB   RHOMBOHEDRAL_A7        1.2175E+02  5.8702E+03  4.5522E+01 !
+ ELEMENT SN   BCT_A5                 1.1869E+02  6.3220E+03  5.1195E+01 !
+ $-------------------------------------------------------------------------------------------------------------
+ 
